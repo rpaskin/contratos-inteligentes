@@ -8,5 +8,5 @@ Disponível *gratuitamente* na Udemy em [udemy.com/contratos-inteligentes](https
 
 ## Autores
 
-Ronnie Paskin @rpaskin
-Rafael Nasser @rnasser
+* Ronnie Paskin (https://github.com/rpaskin)
+* Rafael Nasser (https://github.com/rnasser)
